@@ -66,7 +66,7 @@ Here are some of the cool projects I'm working on or have completed:
 ---
 
 ## 📫 How to Reach Me:
-- ✉️ **Email**: rishugoyal16800@gmail.com
+- ✉️ **Email**: devyanisharmaa15@gmail.com
 - 🌐 **LinkedIn**: [Devyani](https://www.linkedin.com/in/devyani1512)
 - 🧑‍💻 **GitHub**: [@devyani1512](https://github.com/devyani1512)
 
