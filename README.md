@@ -4,10 +4,10 @@
 I'm a passionate and driven **B.Tech CSE (2nd Year)** student with a deep interest in coding, AI, backend development, and UI design. I enjoy exploring new technologies and constantly improving my skills to build innovative solutions. 🚀
  
 ## 💫 About Me:
-- 👀 I’m interested in **coding**, **AI**, **backend development**, and **web technologies**.
-- 🌱 Currently learning  **Backend Development**, and **Python-based UI Design**.
+- 👀 I’m interested in **coding**, **backend development**, and **web technologies**.
+- 🌱 Currently learning  **Backend Development**.
 - 💻 Working on personal and collaborative projects to gain practical experience in **real-time data systems**.
-- 👥 Volunteer at **AIML Hub**, organizing events and workshops to help students learn AI and machine learning.
+
 
 --- 
 
