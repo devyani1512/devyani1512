@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Devyani
 
-I'm a passionate and driven **B.Tech CSE (2nd Year)** student with a deep interest in coding, AI, backend development, and UI design. I enjoy exploring new technologies and constantly improving my skills to build innovative solutions. 🚀
+I'm a passionate and driven **B.Tech CSE (3rd Year)** student with a deep interest in coding, AI, backend development, and UI design. I enjoy exploring new technologies and constantly improving my skills to build innovative solutions. 🚀
  
 ## 💫 About Me:
 - 👀 I’m interested in **coding**, **backend development**, and **web technologies**.
