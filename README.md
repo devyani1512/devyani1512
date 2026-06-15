@@ -1,17 +1,17 @@
 
-# 👋 Hi, I'm Devyani
+#  Hi, I'm Devyani
 
 I'm a passionate and driven **B.Tech CSE (3rd Year)** student with a deep interest in coding, AI, backend development, and UI design. I enjoy exploring new technologies and constantly improving my skills to build innovative solutions. 🚀
  
-## 💫 About Me:
-- 👀 I’m interested in **coding**, **backend development**, and **web technologies**.
-- 🌱 Currently learning  **Backend Development**.
-- 💻 Working on personal and collaborative projects to gain practical experience in **real-time data systems**.
+##  About Me:
+-  I’m interested in **coding**, **backend development**, and **web technologies**.
+-  Currently learning  **Backend Development**.
+-  Working on personal and collaborative projects to gain practical experience in **real-time data systems**.
 
 
 --- 
 
-## 🌐 Socials:
+##  Socials:
 <div>
   <a href="https://www.linkedin.com/in/devyani1512">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,7 +20,7 @@ I'm a passionate and driven **B.Tech CSE (3rd Year)** student with a deep intere
 
 ---
 
-## 💻 Tech Stack:
+##  Tech Stack:
 I'm always expanding my toolkit and learning new technologies.
 
 **Languages & Frameworks**:  
@@ -38,7 +38,7 @@ I'm always expanding my toolkit and learning new technologies.
 
 ---
 
-## 📂 Projects:
+##  Projects:
 Here are some of the cool projects I'm working on or have completed:
 
 - **[Jaypee Learning Hub](https://jaypeelearninghub.great-site.net/index.php)**: Jaypee Learning Hub is a platform providing organized study resources like notes, lab materials, and previous year question papers, designed to make learning easier for students. It’s regularly updated and accessible on any device for a smooth studying experience.
@@ -46,7 +46,7 @@ Here are some of the cool projects I'm working on or have completed:
 
 ---
  
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 ### General Stats:
 ![Commit Activity](https://github-readme-stats.vercel.app/api?username=devyani1512&show_icons=true&hide_border=true&count_private=true&theme=radical&hide_border=false)
@@ -54,23 +54,23 @@ Here are some of the cool projects I'm working on or have completed:
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devyani1512&layout=compact&theme=radical&hide_border=false&langs_count=20)
 
-### 🔥 Streak Stats:
+### Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devyani1512&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)<br/>
 
 ### Trophies:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=devyani1512&theme=radical&row=1&column=3&margin-w=15&margin-h=15&hide_border=false)](https://github.com/devyani1512)
 
-### 📈 Contribution Graph
+###  Contribution Graph
 [![Rishu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devyani1512&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)xh
 
 ---
 
-## 📫 How to Reach Me:
-- ✉️ **Email**: devyanisharmaa15@gmail.com
-- 🌐 **LinkedIn**: [Devyani](https://www.linkedin.com/in/devyani1512)
-- 🧑‍💻 **GitHub**: [@devyani1512](https://github.com/devyani1512)
+##  How to Reach Me:
+- **Email**: devyanisharmaa15@gmail.com
+-  **LinkedIn**: [Devyani](https://www.linkedin.com/in/devyani1512)
+-  **GitHub**: [@devyani1512](https://github.com/devyani1512)
 
 ---
 
-## ✨ Fun Fact: 
+##  Fun Fact: 
 I love to solve problems, explore new tools, and share my knowledge with the community. Let’s build something amazing together! 🚀
